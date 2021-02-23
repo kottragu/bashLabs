@@ -1,0 +1,1 @@
+schtasks /create /sc minute /tn task2.3 /tr C:\osi\task2\2.bat

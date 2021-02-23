@@ -1,0 +1,1 @@
+schtasks /delete /tn "task2.3"
