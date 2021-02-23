@@ -1,0 +1,1 @@
+ps -x | grep "/sbin" | '{ print $5 }'
