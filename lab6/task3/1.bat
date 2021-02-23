@@ -1,1 +1,1 @@
-
+sc query type= service > C:\osi\task3\services.txt
